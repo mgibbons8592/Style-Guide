@@ -1,0 +1,31 @@
+div {
+    display: block;
+}
+
+.colors {
+    display: inline-block;
+}
+
+#blue {
+    background-color: #2d5dcc;
+    color: white;
+    display: inline-block;
+}
+
+#pink {
+   background-color: #d957d9;
+}
+
+#green {
+    background-color: #4fe0b0;
+}
+
+#beige {
+    background-color: #efd9ca;
+}
+
+.container {
+    border: 2px solid #a2a6a2;
+    padding: 10px;
+    margin: 10px auto;
+}
